@@ -1,6 +1,15 @@
 import React from "react";
 
 const Search = () =>
-<div></div>
+//bootstrap panels?
+<div>
+
+
+
+
+
+
+
+</div>
 
 export default Search;

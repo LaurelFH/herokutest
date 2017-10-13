@@ -1,6 +1,18 @@
 import React from "react";
 
 const Saved = () =>
-<div></div>
+//bootstrap panels?
+<div>
+
+
+
+
+
+
+
+
+
+
+</div>
 
 export default Saved;
